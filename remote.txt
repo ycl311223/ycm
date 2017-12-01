@@ -1,2 +1,2 @@
 remote repository has changed
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
